@@ -1,0 +1,8 @@
+/*use 4 selector: 1-class 2-id 3-atribute and 4-combinetion*/
+.m1,#m2,[data-m3="m3"]{
+    width: 300px;
+    height: 300px;
+    background: navy;
+    border-bottom-left-radius: 300px;
+    border-top-right-radius: 50px;
+}
